@@ -1,0 +1,13 @@
+DRA Wii Install guide
+
+Step 1: Get assets.
+
+If you want CH1 assets, download the demo, for CH2-CH6 download the game.
+
+Step 2: move assets
+
+Do this by taking all the stuff exept .exe files from the download folder and move them to private>vc>DFEY or DRA1 in the sd root file directory.
+
+step 3: install wad.
+
+do it
